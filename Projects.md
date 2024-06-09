@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Me
-rank: 3
+title: Projects
+rank: 1
 ---
 Yay
