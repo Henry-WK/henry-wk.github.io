@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Projects
-rank: 3
+rank: 1
 ---
 Yay
