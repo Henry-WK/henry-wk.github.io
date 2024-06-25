@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Papers
 rank: 2
 ---
 ## Papers
