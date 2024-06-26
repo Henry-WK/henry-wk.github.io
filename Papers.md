@@ -427,8 +427,7 @@ display: A design-behavior framework for improving the effectiveness of
 eco-feedback. Energy Research & Social Science, 39:55–68, 2018. 3  
 [17] G. Sepahpour, A. Blackler, and M. Chamorro-Koc. The connection be-
 tween perceived product performance and evoked emotions. In Congress
-of the International Association of Societies of Design Research, pp. 1956–
-1972. Springer, 2021. 1, 3  
+of the International Association of Societies of Design Research, pp. 1956–1972. Springer, 2021. 1, 3  
 [18] E. Vaportzis, M. Giatsi Clausen, and A. J. Gow. Older adults perceptions
 of technology and barriers to interacting with tablet computers: a focus
 group study. Frontiers in psychology, 8:1687, 2017. 2, 3  
