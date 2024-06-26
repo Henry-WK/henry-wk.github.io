@@ -4,7 +4,10 @@
 
 ## About me
 
-<iframe src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" height="200" width="200">
+<div style="text-align; center;">
+      <iframe src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" height="200" width="200">
+      </iframe>
+</div>
 
 ## Resume
 
