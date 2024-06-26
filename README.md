@@ -114,22 +114,22 @@ ___
 
 
 # Extracurricular Activities
-UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
+**UMASS Dissenters** 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 - Present  
 
 ---
 
-Computational Biology Research Group &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Attendee  
+**Computational Biology Research Group** &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Attendee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
 
 ---
 
-Beacon Coding Class	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;			Python Teacher’s Assistant  
+**Beacon Coding Class**	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;			Python Teacher’s Assistant  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
 
 ---
 
-Disc-NY Beacon Ultimate Frisbee 	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Team Captain  
+**Disc-NY Beacon Ultimate Frisbee** 	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Team Captain  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 - 2022
 
 ---
