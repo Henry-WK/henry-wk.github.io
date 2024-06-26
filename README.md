@@ -8,6 +8,7 @@
 ## Work Experience	
 ### Northeast Biogas Initiative  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst & Web Programmer    
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2024 - Present
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
