@@ -1,11 +1,10 @@
 
-# Resume
 
 <!-- div style="text-align: center;">
       <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/644743a4-1010-45ad-83ec-152d4a763922" height="800" width ="1000">
 </div !-->
 
-## Work Experience	
+# Work Experience	
 ### Northeast Biogas Initiative  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst & Web Programmer    
 
@@ -46,7 +45,7 @@ associate. Trained to learn restaurant protocol, and efficient cooking strategy.
 working with 10-15 people to keep business running smoothly, and ensure customer 
 satisfaction.
 
-## Programming Expertise 
+# Programming Expertise 
 **Games and Visual Graphics Projects**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript  
 
@@ -56,12 +55,12 @@ satisfaction.
 **Data Structures and Sorting Algorithms**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
 
-## Education
-University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA  
+# Education
+### University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)  		
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
-## Extracurricular Activities
+# Extracurricular Activities
 UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
 
 Computational Biology Research Group	Attendee					      2024
