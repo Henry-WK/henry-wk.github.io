@@ -57,7 +57,7 @@ satisfaction.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
 
 # Education
-### University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA  
+**University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)  		
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
