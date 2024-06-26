@@ -4,12 +4,17 @@
 
 ## About me
 
-<div style="text-align; center;">
+<!-- div style="text-align; center;">
 <!--       <iframe src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" height="200" width="200">
       </iframe> -->
 <!--       <object data="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" width="1000" height="1000" type='application/pdf'></object> -->
-      <embed src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" width="500" height="375" 
- type="application/pdf">
+<!--       <embed src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" width="500" height="375" 
+ type="application/pdf"> -->
+
+ <div>
+ <object data="https://dl.dropboxusercontent.com/u/6257603/pdfs/pdf01.pdf" type="application/pdf" width="300" height="200">
+   <embed src="https://dl.dropboxusercontent.com/u/6257603/pdfs/pdf01.pdf" type="application/pdf">
+ </object>
 </div>
 
 ## Resume
