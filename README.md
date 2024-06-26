@@ -14,7 +14,7 @@
 
 # Work Experience	
 
-<div style="width:200px;overflow:auto">
+<div style="width:400px;overflow:auto">
 <pre>
 Northeast Biogas Initiative	Data Analyst & Web Programmer                                  May 2024 - Present
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
@@ -27,16 +27,25 @@ Oversight of backend operations for New York sailing company, both public and pr
 
 Shake Shack			 Team Member	 			          &nbsp;                             Summers 2021, 2022
 Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and customer service associate. Trained to learn restaurant protocol, and efficient cooking strategy.  Collaboratively working with 10-15 people to keep business running smoothly, and ensure customer satisfaction.
+</pre>
 
 # Programming Expertise 
+<div style="width:400px;overflow:auto">
+<pre>
 Games and Visual Graphics Projects			Languages: 	Python, Processing, JavaScript
 Object Oriented Programming			Languages:	Python, Java, JavaScript, C
 Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
+</pre>
 
+<div style="width:400px;overflow:auto">
+<pre>
 # Education
 University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
+</pre>
 
+<div style="width:400px;overflow:auto">
+<pre>
 # Extracurricular Activities
 UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
 Computational Biology Research Group	Attendee					      2024
