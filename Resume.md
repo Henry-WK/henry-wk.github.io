@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Projects
+title: Resume
 rank: 3
 ---
