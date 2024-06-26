@@ -12,7 +12,7 @@ May 2024 - Present
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
 
-### UMASS HCI Lab		
+### **UMASS HCI Lab**		
 
 **Research Assistant & Writer**    
 
@@ -24,9 +24,9 @@ publication for a September visualization conference. Skills include: academic w
 
 ### Manhattan By Sail	
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operations Manager & Event Server    
+Operations Manager & Event Server    
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June-November 2023  
+June-November 2023  
 
 Oversight of backend operations for New York sailing company, both public and private sails. 
 Including: JS programming to aid financial efficiency on Hubspot; Designing company website 
@@ -36,9 +36,9 @@ documents and office; Private event server.
 
 ### Shake Shack		
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front of House & Line Cook  	
+Front of House & Line Cook  	
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summers 2021, 2022  
+Summers 2021, 2022  
 
 Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and customer service
 associate. Trained to learn restaurant protocol, and efficient cooking strategy.  Collaboratively 
