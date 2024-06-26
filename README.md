@@ -42,7 +42,12 @@ service site; Financial mediator for privately chartered events; Supervision of 
 documents and office; Private event server.
 
 **Skills:**
-+ 
++ Customer Service
++ Web development
++ Data management
++ Office Management
++ Hubspot usage and customization via JavaScript
++ Booking Management
 
 ---
 
