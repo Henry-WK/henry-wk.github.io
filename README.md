@@ -7,7 +7,7 @@
 # Work Experience	
 ### Northeast Biogas Initiative  
 
-**Data Analyst & Web Programmer**
+Position: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Analyst & Web Programmer
 
 May 2024 - Present
 
