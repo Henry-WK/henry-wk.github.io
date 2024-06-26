@@ -75,11 +75,17 @@ Tutor/homework support for struggling students to improve their skills, and gain
 **Games and Visual Graphics Projects**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript  
 
+---
+
 **Object Oriented Programming**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
 
+---
+
 **Data Structures and Sorting Algorithms**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
+
+---
 
 # Education
 **University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA**  
@@ -111,11 +117,19 @@ ___
 UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 - Present  
 
+---
+
 Computational Biology Research Group &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Attendee  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
+
+---
 
 Beacon Coding Class	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;			Python Teacher’s Assistant  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
 
+---
+
 Disc-NY Beacon Ultimate Frisbee 	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Team Captain  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 - 2022
+
+---
