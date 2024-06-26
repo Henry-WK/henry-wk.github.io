@@ -64,7 +64,7 @@ satisfaction.
 
 ### Brooklyn Public Library
 
-**Homework Tutor & Shelving Volunteer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Fall 2019 and Spring 2020
+**Homework Tutor & Shelving Volunteer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Fall 2019 and Spring 2020**
 
 Tutor/homework support for struggling students to improve their skills, and gain academic confidence. Responsible for book sorting and shelving, including learning and mastering the Dewey Decimal System.
 
