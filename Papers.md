@@ -377,78 +377,78 @@ paper is meant to build a foundation for future work.
 [1] S. C. Akhter-Khan, M. Prina, G. H.-Y. Wong, R. Mayston, and L. Li.
 Understanding and addressing older adults’ loneliness: the social rela-
 tionship expectations framework. Perspectives on Psychological Science,
-18(4):762–777, 2023. 2
+18(4):762–777, 2023. 2  
 [2] L. Bartram. Design challenges and opportunities for eco-feedback in the
 home. IEEE Computer Graphics and Applications, 35(4):52–62, 2015. 1,
-3
+3  
 [3] J. Bobeth, S. Deutsch, S. Schmehl, and M. Tscheligi. Facing the user
 heterogeneity when designing touch interfaces for older adults: a repre-
 sentative personas approach. NordiCHI 2012 Proceedings, pp. 1–4, 2012.
-3
+3  
 [4] A. S. W. Chan, S. W. H. Chan, and E. Yan. Healthy aging, mental health,
-and sexuality, 2023. 2
+and sexuality, 2023. 2  
 [5] S. Consolvo, P. Roessler, and B. E. Shelton. The carenet display: lessons
 learned from an in home evaluation of an ambient display. In International
-conference on ubiquitous computing, pp. 1–17. Springer, 2004. 2, 3
+conference on ubiquitous computing, pp. 1–17. Springer, 2004. 2, 3  
 [6] C. L. Grady. Cognitive neuroscience of aging. Annals of the new york
-Academy of Sciences, 1124(1):127–144, 2008. 1
+Academy of Sciences, 1124(1):127–144, 2008. 1  
 [7] J. D. Henry, S. A. Grainger, and W. von Hippel. Determinants of so-
 cial cognitive aging: Predicting resilience and risk. Annual Review of
-Psychology, 74:167–192, 2023. 2
+Psychology, 74:167–192, 2023. 2  
 [8] Z. X. Jin, T. Plocher, and L. Kiff. Touch screen user interfaces for older
 adults: button size and spacing. In Universal Acess in Human Computer
 Interaction. Coping with Diversity: 4th International Conference on Uni-
 versal Access in Human-Computer Interaction, UAHCI 2007, Held as Part
 of HCI International 2007, Beijing, China, July 22-27, 2007, Proceedings,
-Part I 4, pp. 933–941. Springer, 2007. 3
+Part I 4, pp. 933–941. Springer, 2007. 3  
 [9] C. Lee and J. F. Coughlin. Perspective: Older adults’ adoption of tech-
 nology: an integrated approach to identifying determinants and barriers.
-Journal of Product Innovation Management, 32(5):747–759, 2015. 2
+Journal of Product Innovation Management, 32(5):747–759, 2015. 2  
 [10] E. C. Lorenzo, G. A. Kuchel, C.-L. Kuo, T. E. Moffitt, and B. S. Diniz.
 Major depression and the biological hallmarks of aging. Ageing research
-reviews, 83:101805, 2023. 2
+reviews, 83:101805, 2023. 2  
 [11] T. L. Mitzner, J. B. Boron, C. B. Fausset, A. E. Adams, N. Charness, S. J.
 Czaja, K. Dijkstra, A. D. Fisk, W. A. Rogers, and J. Sharit. Older adults
 talk technology: Technology usage and attitudes. Computers in human
-behavior, 26(6):1710–1721, 2010. 2, 3
+behavior, 26(6):1710–1721, 2010. 2, 3  
 [12] C. Owsley, G. McGwin Jr, and T. Seder. Older drivers’ attitudes about
 instrument cluster designs in vehicles. Accident Analysis & Prevention,
-43(6):2024–2029, 2011. 2
+43(6):2024–2029, 2011. 2  
 [13] D. Park and A. Gutchess. The cognitive neuroscience of aging and culture.
-Current directions in psychological science, 15(3):105–108, 2006. 1
+Current directions in psychological science, 15(3):105–108, 2006. 1  
 [14] P. A. Reuter-Lorenz and D. C. Park. Human neuroscience and the aging
 mind: a new look at old problems. Journals of Gerontology Series B:
-Psychological Sciences and Social Sciences, 65(4):405–415, 2010. 1, 2
+Psychological Sciences and Social Sciences, 65(4):405–415, 2010. 1, 2  
 [15] P. A. Reuter-Lorenz and C.-Y. C. Sylvester. The cognitive neuroscience
 of working memory and aging. Cognitive neuroscience of aging: Linking
-cognitive and cerebral aging, pp. 186–217, 2005. 1, 2
+cognitive and cerebral aging, pp. 186–217, 2005. 1, 2  
 [16] A. Sanguinetti, K. Dombrovski, and S. Sikand. Information, timing, and
 display: A design-behavior framework for improving the effectiveness of
-eco-feedback. Energy Research & Social Science, 39:55–68, 2018. 3
+eco-feedback. Energy Research & Social Science, 39:55–68, 2018. 3  
 [17] G. Sepahpour, A. Blackler, and M. Chamorro-Koc. The connection be-
 tween perceived product performance and evoked emotions. In Congress
 of the International Association of Societies of Design Research, pp. 1956–
-1972. Springer, 2021. 1, 3
+1972. Springer, 2021. 1, 3  
 [18] E. Vaportzis, M. Giatsi Clausen, and A. J. Gow. Older adults perceptions
 of technology and barriers to interacting with tablet computers: a focus
-group study. Frontiers in psychology, 8:1687, 2017. 2, 3
+group study. Frontiers in psychology, 8:1687, 2017. 2, 3  
 [19] J. Waycott, S. Pedell, F. Vetere, E. Ozanne, L. Kulik, A. Gruner, and
 J. Downs. Actively engaging older adults in the development and evalua-
 tion of tablet technology. In Proceedings of the 24th Australian Computer-
-Human Interaction Conference, pp. 643–652, 2012. 3
+Human Interaction Conference, pp. 643–652, 2012. 3  
 [20] G. Wood and M. Newborough. Influencing user behaviour with energy
 information display systems for intelligent homes. International journal
-of energy research, 31(1):56–78, 2007. 1
+of energy research, 31(1):56–78, 2007. 1  
 [21] D. Wu. Research on the interaction design of intelligent microwave
 oven based on user demand. In 2017 23rd International Conference on
-Automation and Computing (ICAC), pp. 1–6. IEEE, 2017. 1
+Automation and Computing (ICAC), pp. 1–6. IEEE, 2017. 1  
 [22] S. Yusif, J. Soar, and A. Hafeez-Baig. Older people, assistive technologies,
 and the barriers to adoption: A systematic review. International journal of
-medical informatics, 94:112–116, 2016. 2
+medical informatics, 94:112–116, 2016. 2  
 [23] Y. Zhao, B. Hamat, T. Wang, and L. L. L. Pang. Research on compre-
 hensive evaluation and optimization design methods for the elderly home
 exercise bikes. In Proceedings of the 3rd International Conference on
 Innovation Design and Digital Technology, ICIDDT 2023, November 3–5,
-2023, Zhenjiang, China, 2024. 2, 3
+2023, Zhenjiang, China, 2024. 2, 3  
 
 ---
