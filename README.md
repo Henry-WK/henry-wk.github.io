@@ -6,13 +6,13 @@
 </div !-->
 
 ## Work Experience	
-**Northeast Biogas Initiative**  
+###**Northeast Biogas Initiative**  
 Data Analyst & Web Programmer    
 May 2024 - Present
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
 
-**UMASS HCI Lab** 		
+###**UMASS HCI Lab** 		
 
 Research Assistant & Writer     
 
@@ -21,7 +21,7 @@ Working under a graduate mentor, working to expand data visualization accessibil
 with older adults on their issues with home displays. Currently writing a scholarly review highlighting related works, to be utilized in a 
 publication for a September visualization conference. Skills include: academic writing in latex, reviewing literature, and research development.
 
-**Manhattan By Sail**		
+###**Manhattan By Sail**		
 
 Operations Manager & Event Server    
 
@@ -33,7 +33,7 @@ marketability and UI; Customer support through text and call; Bookings managemen
 service site; Financial mediator for privately chartered events; Supervision of company 
 documents and office; Private event server.
 
-**Shake Shack**		
+###**Shake Shack**		
 
 Front of House & Line Cook	
 
