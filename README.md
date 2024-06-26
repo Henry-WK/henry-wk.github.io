@@ -6,7 +6,7 @@
 </div !-->
 
 ## Work Experience	
-### **Northeast Biogas Initiative**  
+### Northeast Biogas Initiative  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst & Web Programmer    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2024 - Present
 
