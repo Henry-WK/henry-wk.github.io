@@ -16,7 +16,7 @@ Tasked with parsing AgSTAR data on hundreds of running biodigesters across the c
 
 ### **UMASS HCI Lab**		
 
-**Research Assistant & Writer** &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; December 2023 - Present 
+**Research Assistant & Writer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; December 2023 - Present** 
 
 Working under a graduate mentor, working to expand data visualization accessibility to older adults. Our study involves in person discussion 
 with older adults on their issues with home displays. Currently writing a scholarly review highlighting related works, to be utilized in a 
