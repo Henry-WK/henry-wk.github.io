@@ -8,8 +8,8 @@
 # Work Experience	
 <div style="width:800px;overflow:auto">
 <pre>
-Company: **Northeast Biogas Initiative**      
-Position: Data Analyst & Web Programmer        
+Company: <b> Northeast Biogas Initiative </b>
+Position: ** Data Analyst & Web Programmer **       
 Dates: May 2024 - Present
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. 
 Developing a website for biogas communities to communicate with one another and submit 
