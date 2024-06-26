@@ -3,7 +3,9 @@ layout: default
 title: Papers
 rank: 2
 ---
-## Papers
+# Papers
+
+--- 
 
 ## Electronic Data Displays + Older Adults
   
@@ -448,3 +450,5 @@ hensive evaluation and optimization design methods for the elderly home
 exercise bikes. In Proceedings of the 3rd International Conference on
 Innovation Design and Digital Technology, ICIDDT 2023, November 3–5,
 2023, Zhenjiang, China, 2024. 2, 3
+
+---
