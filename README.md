@@ -51,6 +51,8 @@ associate. Trained to learn restaurant protocol, and efficient cooking strategy.
 working with 10-15 people to keep business running smoothly, and ensure customer 
 satisfaction.
 
+---
+
 # Programming Expertise 
 **Games and Visual Graphics Projects**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript  
