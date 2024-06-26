@@ -9,13 +9,13 @@ rank: 1
 
 **Arduino + Processing Arcade w/ Custom Circuitry (Javascript + C++)**
 
-[Project Site](https://sites.google.com/umass.edu/sensorsimulators?usp=sharing)
+[Sensor Simulators Site](https://sites.google.com/umass.edu/sensorsimulators?usp=sharing)
 
 ---
 
 **Doodle Jump on Processing (Javascript)**
 
-[Doodle Jump](https://editor.p5js.org/hwheeler/full/dFB3w8vy3)
+[Doodle Jump on P5.js](https://editor.p5js.org/hwheeler/full/dFB3w8vy3)
 
 ---
 
