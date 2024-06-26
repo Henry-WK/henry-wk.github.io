@@ -7,7 +7,7 @@
 
 # Work Experience	
 <div style="width:800px;overflow:auto">
-<pre style="font-size: 30px">
+<pre style="font-size: 15px">
 Northeast Biogas Initiative
 Position: ** Data Analyst & Web Programmer **       
 Dates: May 2024 - Present
