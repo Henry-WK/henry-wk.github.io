@@ -11,6 +11,9 @@
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
 
+Skills: 
++ Wordpress web development
+
 ----
 
 ### **UMASS HCI Lab**		
@@ -37,6 +40,9 @@ Including: JS programming to aid financial efficiency on Hubspot; Designing comp
 marketability and UI; Customer support through text and call; Bookings management through 
 service site; Financial mediator for privately chartered events; Supervision of company 
 documents and office; Private event server.
+
+Skills:
++ 
 
 ---
 
@@ -66,6 +72,27 @@ satisfaction.
 **University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)  		
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
+
+Noteable **Computer Science** Courses Include:
++ Introduction to Computation
++ Programming Methodology with TypeScript
++ Computer Systems Principles
++ Computer Graphics
+
+Noteable **Biology** Courses Include:
+- Introductory Biology 1 & 2
+- Molecular and Cellular Biology
+
+Noteable **Mathemetics** Courses Include:
+* Applied Linear Algebra
+* Calculus 1 - 3
+
+--- 
+
+** Beacon High School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9 GPA**
+
+___
+
 
 # Extracurricular Activities
 UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
