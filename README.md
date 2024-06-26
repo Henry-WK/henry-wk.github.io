@@ -5,7 +5,7 @@
 </div !-->
 
 # Work Experience	
-<p style="font-size: 25px; color: blue;" align="center">Northeast Biogas Initiative</p>
+<p style="font-size: 20px;" align="center">Northeast Biogas Initiative</p>
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Analyst & Web Programmer**
 
 May 2024 - Present
