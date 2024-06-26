@@ -11,7 +11,7 @@
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
 
-Skills:
+**Skills:**
 + Wordpress web development
 
 ----
@@ -24,7 +24,7 @@ Working under a graduate mentor, working to expand data visualization accessibil
 with older adults on their issues with home displays. Currently writing a scholarly review highlighting related works, to be utilized in a 
 publication for a September visualization conference. 
 
-Skills:
+**Skills:**
 + Academic writing in latex
 + Reviewing literature
 + Research development
@@ -41,7 +41,7 @@ marketability and UI; Customer support through text and call; Bookings managemen
 service site; Financial mediator for privately chartered events; Supervision of company 
 documents and office; Private event server.
 
-Skills:
+**Skills:**
 + 
 
 ---
