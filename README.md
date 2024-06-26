@@ -73,17 +73,17 @@ satisfaction.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)  		
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
-Noteable **Computer Science** Courses Include:
+Noteable _**Computer Science**_ Courses Include:
 + Introduction to Computation
 + Programming Methodology with TypeScript
 + Computer Systems Principles
 + Computer Graphics
 
-Noteable **Biology** Courses Include:
+Noteable _**Biology**_ Courses Include:
 - Introductory Biology 1 & 2
 - Molecular and Cellular Biology
 
-Noteable **Mathemetics** Courses Include:
+Noteable _**Mathemetics**_ Courses Include:
 * Applied Linear Algebra
 * Calculus 1 - 3
 
