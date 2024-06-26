@@ -13,7 +13,7 @@
 </div !-->
 
 # Work Experience	
-<div style="width:600px;overflow:auto">
+<div style="width:800px;overflow:auto">
 <pre>
 Northeast Biogas Initiative	Data Analyst & Web Programmer                                  May 2024 - Present
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to 
@@ -38,7 +38,7 @@ satisfaction.
 </div>
 
 # Programming Expertise 
-<div style="width:600px;overflow:auto">
+<div style="width:800px;overflow:auto">
 <pre>
 Games and Visual Graphics Projects			Languages: 	Python, Processing, JavaScript
 Object Oriented Programming			Languages:	Python, Java, JavaScript, C
@@ -47,7 +47,7 @@ Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
 </div>
 
 # Education
-<div style="width:600px;overflow:auto">
+<div style="width:800px;overflow:auto">
 <pre>
 University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
@@ -55,7 +55,7 @@ Major: Computer Science (BS)		Minor(s): Biology, Mathematics
 </div>
 
 # Extracurricular Activities
-<div style="width:600px;overflow:auto">
+<div style="width:800px;overflow:auto">
 <pre>
 UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
 Computational Biology Research Group	Attendee					      2024
