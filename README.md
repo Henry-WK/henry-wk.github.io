@@ -37,8 +37,8 @@ University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
 
 # Extracurricular Activities
-UMASS Dissenters 				Senior Member/Organizer 		  	2022 - Present
-Computational Biology Research Group	Attendee					2024
+UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
+Computational Biology Research Group	Attendee					      2024
 Beacon Coding Class				Python Teacher’s Assistant			2022
 Disc-NY Beacon Ultimate Frisbee 		Team Captain 					2019 - 2022
 </pre>
