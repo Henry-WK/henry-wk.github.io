@@ -61,10 +61,14 @@ satisfaction.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
 # Extracurricular Activities
-UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
+UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;		      Senior Member/Organizer   		  	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 - Present  
 
-Computational Biology Research Group	Attendee					      2024
+Computational Biology Research Group &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Attendee  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
 
-Beacon Coding Class				Python Teacher’s Assistant			2022
+Beacon Coding Class	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;			Python Teacher’s Assistant  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
 
-Disc-NY Beacon Ultimate Frisbee 		Team Captain 					2019 - 2022
+Disc-NY Beacon Ultimate Frisbee 	&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Team Captain  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019 - 2022
