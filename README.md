@@ -16,7 +16,7 @@ Tasked with parsing AgSTAR data on hundreds of running biodigesters across the c
 
 ----
 
-### **UMASS HCI Lab**		
+### UMASS HCI Lab		
 
 **Research Assistant & Writer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; December 2023 - Present** 
 
