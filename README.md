@@ -61,7 +61,7 @@ satisfaction.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
 # Extracurricular Activities
-UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;		      Senior Member/Organizer   		  	
+UMASS Dissenters 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 - Present  
 
 Computational Biology Research Group &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Attendee  
