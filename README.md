@@ -27,6 +27,7 @@ Oversight of backend operations for New York sailing company, both public and pr
 Shake Shack			 Team Member	 			          &nbsp;                             Summers 2021, 2022
 Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and customer service associate. Trained to learn restaurant protocol, and efficient cooking strategy.  Collaboratively working with 10-15 people to keep business running smoothly, and ensure customer satisfaction.
 </pre>
+</div>
 
 # Programming Expertise 
 <div style="width:600px;overflow:auto">
@@ -35,6 +36,7 @@ Games and Visual Graphics Projects			Languages: 	Python, Processing, JavaScript
 Object Oriented Programming			Languages:	Python, Java, JavaScript, C
 Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
 </pre>
+</div>
 
 # Education
 <div style="width:600px;overflow:auto">
@@ -42,6 +44,7 @@ Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
 University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
 </pre>
+</div>
 
 # Extracurricular Activities
 <div style="width:600px;overflow:auto">
@@ -51,3 +54,4 @@ Computational Biology Research Group	Attendee					      2024
 Beacon Coding Class				Python Teacher’s Assistant			2022
 Disc-NY Beacon Ultimate Frisbee 		Team Captain 					2019 - 2022
 </pre>
+</div>
