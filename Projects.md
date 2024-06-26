@@ -3,8 +3,6 @@ layout: default
 title: Projects
 rank: 1
 ---
-## Projects
-
 # Games
 
 ### **Arduino + Processing Arcade w/ Custom Circuitry (Javascript + C++)**  
