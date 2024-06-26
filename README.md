@@ -56,7 +56,7 @@ satisfaction.
 
 ## Education
 University of Massachusetts - Amherst &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.87 GPA  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)		
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science (BS)  		
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor(s): Biology, Mathematics
 
 ## Extracurricular Activities
