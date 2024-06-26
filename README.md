@@ -19,7 +19,12 @@ Tasked with parsing AgSTAR data on hundreds of running biodigesters across the c
 
 Working under a graduate mentor, working to expand data visualization accessibility to older adults. Our study involves in person discussion 
 with older adults on their issues with home displays. Currently writing a scholarly review highlighting related works, to be utilized in a 
-publication for a September visualization conference. Skills include: academic writing in latex, reviewing literature, and research development.
+publication for a September visualization conference. 
+
+Skills: 
+      + Academic writing in latex
+      + Reviewing literature
+      + Research development.
 
 ---
 
