@@ -7,25 +7,26 @@
 
 ## Work Experience	
 ### **Northeast Biogas Initiative**  
-Data Analyst & Web Programmer    
-May 2024 - Present
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analyst & Web Programmer    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May 2024 - Present
 
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
 
 ### **UMASS HCI Lab** 		
 
-Research Assistant & Writer     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Assistant & Writer     
 
-December 2023 - Present  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 2023 - Present 
+
 Working under a graduate mentor, working to expand data visualization accessibility to older adults. Our study involves in person discussion 
 with older adults on their issues with home displays. Currently writing a scholarly review highlighting related works, to be utilized in a 
 publication for a September visualization conference. Skills include: academic writing in latex, reviewing literature, and research development.
 
 ### **Manhattan By Sail**		
 
-Operations Manager & Event Server    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operations Manager & Event Server    
 
-June-November 2023
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;June-November 2023  
 
 Oversight of backend operations for New York sailing company, both public and private sails. 
 Including: JS programming to aid financial efficiency on Hubspot; Designing company website 
@@ -35,9 +36,9 @@ documents and office; Private event server.
 
 ### **Shake Shack**		
 
-Front of House & Line Cook	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front of House & Line Cook  	
 
-Summers 2021, 2022
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summers 2021, 2022  
 
 Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and customer service
 associate. Trained to learn restaurant protocol, and efficient cooking strategy.  Collaboratively 
