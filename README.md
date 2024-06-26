@@ -8,13 +8,12 @@
 
 ## Resume
 
-<div style="text-align: center;">
+<!-- div style="text-align: center;">
       <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/644743a4-1010-45ad-83ec-152d4a763922" height="800" width ="1000">
-</div>
+</div !-->
 
 # Work Experience	
-
-<div style="width:400px;overflow:auto">
+<div style="width:600px;overflow:auto">
 <pre>
 Northeast Biogas Initiative	Data Analyst & Web Programmer                                  May 2024 - Present
 Tasked with parsing AgSTAR data on hundreds of running biodigesters across the country. Developing a website for biogas communities to communicate with one another and submit their own projects, acting as a hub for conversation as well as an interactive database to educate future experiments. 
@@ -30,23 +29,23 @@ Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and 
 </pre>
 
 # Programming Expertise 
-<div style="width:400px;overflow:auto">
+<div style="width:600px;overflow:auto">
 <pre>
 Games and Visual Graphics Projects			Languages: 	Python, Processing, JavaScript
 Object Oriented Programming			Languages:	Python, Java, JavaScript, C
 Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
 </pre>
 
-<div style="width:400px;overflow:auto">
-<pre>
 # Education
+<div style="width:600px;overflow:auto">
+<pre>
 University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
 </pre>
 
-<div style="width:400px;overflow:auto">
-<pre>
 # Extracurricular Activities
+<div style="width:600px;overflow:auto">
+<pre>
 UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
 Computational Biology Research Group	Attendee					      2024
 Beacon Coding Class				Python Teacher’s Assistant			2022
