@@ -89,7 +89,7 @@ Noteable **Mathemetics** Courses Include:
 
 --- 
 
-** Beacon High School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9 GPA**
+**Beacon High School &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9 GPA**
 
 ___
 
