@@ -5,7 +5,7 @@ rank: 2
 ---
 ## Papers
 
-##Electronic Data Displays + Older Adults
+## Electronic Data Displays + Older Adults
   
 Category: Research
 Paper Type: Empirical
@@ -18,7 +18,7 @@ The hope is to give context to the purpose and analysis of the purposed study, a
 inspire this work.
 Index Terms—older adults, data visualization, information displays
 
-# 1 INTRODUCTION
+### 1 INTRODUCTION
 Our study serves to dive further into older adults and their experiences
 using home embedded displays. To tackle this, we compiled related
 work that explore: The context of home devices in a general sense, and
@@ -36,7 +36,7 @@ Lastly, our analysis relies on categorizations of the embedded displays
 that we worked with, and thus related papers on categorization are
 considered (Section 6).
 
-# 2 AT-HOME DISPLAY CONSIDERATIONS
+### 2 AT-HOME DISPLAY CONSIDERATIONS
 Our study deals with displays used in a user’s home and daily life. This
 specific category of displays has its own properties to unpack, including
 what characteristics of the device affect the user’s experience the most.
@@ -76,7 +76,7 @@ displays. Ultimately, the paper suggests that these displays can simplify
 function, as Wood et al. [20] endorsed, and bring aesthetic value to its
 functional context, as Lyn et al. [2] remarked.
 
-# 3 COGNITIVE AND PSYCHOLOGICAL CHANGES WITH AGING
+### 3 COGNITIVE AND PSYCHOLOGICAL CHANGES WITH AGING
 There are a multitude of Neurological and Psychological changes asso-
 ciated with an aging brain, this section is meant to highlight research
 on these changes and how they manifest.
@@ -185,7 +185,8 @@ aging go hand in hand, one affecting the other. This context is important
 when evaluating how older adults chose to interact with technology, as
 it gives reasoning for much of the findings discussed in the following
 sections.
-# 4 OLDER ADULTS + TECHNOLOGY BARRIERS
+
+### 4 OLDER ADULTS + TECHNOLOGY BARRIERS
 An extensive number of possible hurdles for older adults when adopting
 and using technology must be considered. This section breaks down
 potential barriers before and after an older adult may decide to use a
@@ -236,7 +237,7 @@ their usefulness, but most commonly end up being barred by lack of
 proper support when learning to operate it, or through fear of isolation
 and loss of independence.
 
-# 5 OLDER ADULTS + DEVICE DESIGN CHOICES
+### 5 OLDER ADULTS + DEVICE DESIGN CHOICES
 When developing displays for older adults, it is the specific design
 choices that greatly affect the ease of use for the intended user. Re-
 searchers have found certain designs to be better for older adults, al-
@@ -287,7 +288,7 @@ very much dependent on the individual, and thus design cannot be so
 straightforward or generalized to all older adults, for a multitude of
 characteristics.
 
-# 6 CATEGORIZING DISPLAYS
+### 6 CATEGORIZING DISPLAYS
 The study being presented will rely on categorizing display character-
 istics through responses from participants. This section is meant to
 explore previous categorizing implementations to find what worked
@@ -361,7 +362,7 @@ and gathering evidence for the importance of each, either through par-
 ticipants or related works, authors were able to make recommendations
 on what design factors were most important to users.
 
-# 7 CONCLUSION
+### 7 CONCLUSION
 Relevant information for the purposed paper is presented through these
 related works. It is the hope that each section will provide background
 in the analysis of the data collected, so proper care can be taken to
@@ -370,7 +371,7 @@ ing to design of displays, social influence, natural processes of aging,
 perceived vs actual function of devices, and analysis techniques, this
 paper is meant to build a foundation for future work.
 
-# REFERENCES
+### REFERENCES
 [1] S. C. Akhter-Khan, M. Prina, G. H.-Y. Wong, R. Mayston, and L. Li.
 Understanding and addressing older adults’ loneliness: the social rela-
 tionship expectations framework. Perspectives on Psychological Science,
