@@ -5,18 +5,20 @@ rank: 2
 ---
 ## Papers
 
-<pre>
-  Electronic Data Displays + Older Adults
+##Electronic Data Displays + Older Adults
+  
 Category: Research
 Paper Type: Empirical
-Abstract—This paper aims to explore related works pertaining to a theoretical study on older adults and their experiences with at
+
+**Abstract**— This paper aims to explore related works pertaining to a theoretical study on older adults and their experiences with at
 home embedded displays. In this study, the goal is to examine older adult’s perception and interactions with common displays used in
 daily life. The related works laid out here relate to; at-home display considerations, cognitive and psychological changes with aging,
 barriers for older adults when utilizing technology, pro-gerento design choices for displays, and research categorizations of displays.
 The hope is to give context to the purpose and analysis of the purposed study, and shed light on previous research that relate to and
 inspire this work.
 Index Terms—older adults, data visualization, information displays
-1 INTRODUCTION
+
+# 1 INTRODUCTION
 Our study serves to dive further into older adults and their experiences
 using home embedded displays. To tackle this, we compiled related
 work that explore: The context of home devices in a general sense, and
@@ -33,11 +35,13 @@ typically impact older adult interaction with their devices (Section 5).
 Lastly, our analysis relies on categorizations of the embedded displays
 that we worked with, and thus related papers on categorization are
 considered (Section 6).
-2 AT-HOME DISPLAY CONSIDERATIONS
+
+# 2 AT-HOME DISPLAY CONSIDERATIONS
 Our study deals with displays used in a user’s home and daily life. This
 specific category of displays has its own properties to unpack, including
 what characteristics of the device affect the user’s experience the most.
-2.1 Emotional Considerations
+
+**2.1 Emotional Considerations**  
 Users emotional reactions are most closely tied to their perceived perfor-
 mance of the device. Wu et al. [21] focused on intelligent microwaves
 and denoted the hierarchy of user demands. They described the function
@@ -51,7 +55,8 @@ ments as coming from failure in functionality. Surprisingly though,
 they found that some negative response came from perceived positive
 performance of the product. In these odd cases, the product’s purpose,
 perceived as negative, meant unhappiness with the product as a whole.
-2.2 Presentation Considerations
+
+**2.2 Presentation Considerations**  
 Further studies show that user response is not only tied to functionality,
 but also how and where the device is presented. Lyn et al. [2] recog-
 nized further design traits like ecology and functional aesthetics of an
@@ -70,11 +75,13 @@ that they turn off when not used, a preferred characteristic for home
 displays. Ultimately, the paper suggests that these displays can simplify
 function, as Wood et al. [20] endorsed, and bring aesthetic value to its
 functional context, as Lyn et al. [2] remarked.
-3 COGNITIVE AND PSYCHOLOGICAL CHANGES WITH AGING
+
+# 3 COGNITIVE AND PSYCHOLOGICAL CHANGES WITH AGING
 There are a multitude of Neurological and Psychological changes asso-
 ciated with an aging brain, this section is meant to highlight research
 on these changes and how they manifest.
-3.1 Cognitive/Neurological changes
+
+**3.1 Cognitive/Neurological changes**  
 By observing neuroimaging studies we are able to compare neural activ-
 ity of younger and older participants. Working memory is derived from
 the idea of short-term memory; it is limited capacity for brief use [15].
@@ -110,7 +117,6 @@ Item recognition tasks are processed in three stages; (1) encoding,
 where memory is perceived and encoded into working memory, (2)
 rehearsal, where information is is maintained in an active state, and (3)
 recognition, where an item is matched to the retrieved item in working
-1
 memory [15]. Reuter et al. [15] stated that age-related changes in
 executive attentional control and inhibition increases vulnerability to
 interference. In the encoding stage, interference would mean irrelevant
@@ -123,7 +129,8 @@ of non-relevant information and lack of activation for attentional se-
 lection. Aging can challenge the performance of every day tasks, and
 pointing out neurological correlations helps give reasoning for these
 challenges.
-3.2 Psychological Changes
+
+**3.2 Psychological Changes**  
 Whether as a result of neurological changes or by the social affects of
 aging, there are many psychological changes that can arise and manifest
 particularly for older adults. These changes should be acknowledged to
@@ -178,12 +185,13 @@ aging go hand in hand, one affecting the other. This context is important
 when evaluating how older adults chose to interact with technology, as
 it gives reasoning for much of the findings discussed in the following
 sections.
-4 OLDER ADULTS + TECHNOLOGY BARRIERS
+# 4 OLDER ADULTS + TECHNOLOGY BARRIERS
 An extensive number of possible hurdles for older adults when adopting
 and using technology must be considered. This section breaks down
 potential barriers before and after an older adult may decide to use a
 device.
-4.1 Barriers to Adoption of Technology
+
+**4.1 Barriers to Adoption of Technology**    
 Older adults have many important considerations when making the
 decision to interact with their devices. Lee et al. [9] and Yusif et al. [22]
 each reviewed papers associated with barriers for older adults’ tech-
@@ -205,7 +213,8 @@ While these findings provide an important baseline to understand the
 motivation of older adults when interacting with technology, the deci-
 sion to first use is primarily dictated by the perceived usefulness of the
 device.
-4.2 Barriers to Technology After Adoption
+
+**4.2 Barriers to Technology After Adoption**  
 Once older adults adopt these devices into regular use, further obsta-
 cles arise. Owsley et al. [12] conducted a study on older adults and
 their views on gauge cluster designs in vehicles. They observed a
@@ -226,12 +235,14 @@ Overall, older adults develop a willingness to use devices based on
 their usefulness, but most commonly end up being barred by lack of
 proper support when learning to operate it, or through fear of isolation
 and loss of independence.
-5 OLDER ADULTS + DEVICE DESIGN CHOICES
+
+# 5 OLDER ADULTS + DEVICE DESIGN CHOICES
 When developing displays for older adults, it is the specific design
 choices that greatly affect the ease of use for the intended user. Re-
 searchers have found certain designs to be better for older adults, al-
 though it is not an exact science.
-5.1 Visual Design Choice
+
+**5.1 Visual Design Choice**  
 Zhao et al. [23] conducted experimental studies on exercise bikes in
 elderly homes, and found that device design for older adults should
 encourage intuitiveness and visibility above all. This is in line with
@@ -242,8 +253,6 @@ For older adults, Owsley et al. [12] and Consolvo et al. [5] supported
 purposeful color distinction of display icons, based on participant pref-
 erence. The former also supported utilization of larger text. When
 thinking of intuitiveness, Mitzner et al. [11] reported older participants
-2
-Online Submission ID: 0
 being overwhelmed by too many functions or buttons. Vaportzis et
 al. [18] found similar patterns, as participants noted there being far
 too many buttons on tablets given to them, especially because they
@@ -252,7 +261,8 @@ can best communicate to older users, Zhao et al. [23] recommended
 enabling voice instruction. However, these additional tools can prove
 problematic: Waycott et al. [19], in a study with older participants,
 found something like the auto complete for texting to be unhelpful.
-5.2 Physical/Interactive Design Choices
+
+**5.2 Physical/Interactive Design Choices**  
 Button design, not just the number of them, is notably important in
 aging-aware displays. Jin et al. [8] explored this in a study on older
 adults’ response to button spacing and size. They found both to be most
@@ -276,12 +286,14 @@ above. While some design choices can clearly be catered, others are
 very much dependent on the individual, and thus design cannot be so
 straightforward or generalized to all older adults, for a multitude of
 characteristics.
-6 CATEGORIZING DISPLAYS
+
+# 6 CATEGORIZING DISPLAYS
 The study being presented will rely on categorizing display character-
 istics through responses from participants. This section is meant to
 explore previous categorizing implementations to find what worked
 well.
-6.1 Categorizations in Experimental Papers
+
+**6.1 Categorizations in Experimental Papers**  
 The categorization of displays defines how a paper will analyze and
 present it data. Certain partitions of categories can be more helpful
 and frequent between literature. Mitzner et al. [11] conducted an ex-
@@ -308,7 +320,8 @@ states, both Mitzner et al. [11] and Sepahpour et al. [17] were able
 to pinpoint the effects of display characteristics on user perspective.
 Specifically, they both found insight on display features and aesthetic,
 as well as functionality and reliability/complexity/activity-support.
-6.2 Categorizations in Theoretical Papers
+
+**6.2 Categorizations in Theoretical Papers**  
 State categorizations of displays come up, and are helpful, in theoretical
 papers as well as experimental ones. Sanguinetti et al. [16] used cate-
 gorizations of display characteristics in their review of previous works.
@@ -347,7 +360,8 @@ and effectiveness of display data. By partitioning design dimensions
 and gathering evidence for the importance of each, either through par-
 ticipants or related works, authors were able to make recommendations
 on what design factors were most important to users.
-7 CONCLUSION
+
+# 7 CONCLUSION
 Relevant information for the purposed paper is presented through these
 related works. It is the hope that each section will provide background
 in the analysis of the data collected, so proper care can be taken to
@@ -355,7 +369,8 @@ address this multi-faceted topic. By addressing considerations pertain-
 ing to design of displays, social influence, natural processes of aging,
 perceived vs actual function of devices, and analysis techniques, this
 paper is meant to build a foundation for future work.
-REFERENCES
+
+# REFERENCES
 [1] S. C. Akhter-Khan, M. Prina, G. H.-Y. Wong, R. Mayston, and L. Li.
 Understanding and addressing older adults’ loneliness: the social rela-
 tionship expectations framework. Perspectives on Psychological Science,
@@ -374,7 +389,6 @@ learned from an in home evaluation of an ambient display. In International
 conference on ubiquitous computing, pp. 1–17. Springer, 2004. 2, 3
 [6] C. L. Grady. Cognitive neuroscience of aging. Annals of the new york
 Academy of Sciences, 1124(1):127–144, 2008. 1
-3
 [7] J. D. Henry, S. A. Grainger, and W. von Hippel. Determinants of so-
 cial cognitive aging: Predicting resilience and risk. Annual Review of
 Psychology, 74:167–192, 2023. 2
@@ -433,6 +447,3 @@ hensive evaluation and optimization design methods for the elderly home
 exercise bikes. In Proceedings of the 3rd International Conference on
 Innovation Design and Digital Technology, ICIDDT 2023, November 3–5,
 2023, Zhenjiang, China, 2024. 2, 3
-4
-
-</pre>
