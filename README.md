@@ -33,7 +33,7 @@ publication for a September visualization conference.
 
 ### Manhattan By Sail	
 
-**Operations Manager & Event Server &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; June-November 2023**  
+**Operations Manager & Event Server &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Summer and Fall 2023**  
 
 Oversight of backend operations for New York sailing company, both public and private sails. 
 Including: JS programming to aid financial efficiency on Hubspot; Designing company website 
@@ -59,6 +59,14 @@ Rotating role as griller, shake maker, fry cook, dishwasher, order handler, and 
 associate. Trained to learn restaurant protocol, and efficient cooking strategy.  Collaboratively 
 working with 10-15 people to keep business running smoothly, and ensure customer 
 satisfaction.
+
+---
+
+### Brooklyn Public Library
+
+**Homework Tutor & Shelving Volunteer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Fall 2019 and Spring 2020
+
+Tutor/homework support for struggling students to improve their skills, and gain academic confidence. Responsible for book sorting and shelving, including learning and mastering the Dewey Decimal System.
 
 ---
 
