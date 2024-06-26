@@ -47,28 +47,19 @@ working with 10-15 people to keep business running smoothly, and ensure customer
 satisfaction.
 
 # Programming Expertise 
-<div style="width:800px;overflow:auto">
-<pre>
 Games and Visual Graphics Projects			Languages: 	Python, Processing, JavaScript
 Object Oriented Programming			Languages:	Python, Java, JavaScript, C
 Data Structures and Sorting Algorithms		Languages:	Python, Java, JavaScript, C
-</pre>
-</div>
 
 # Education
-<div style="width:800px;overflow:auto">
-<pre>
 University of Massachusetts - Amherst	3.87 GPA
 Major: Computer Science (BS)		Minor(s): Biology, Mathematics
-</pre>
-</div>
 
 # Extracurricular Activities
-<div style="width:800px;overflow:auto">
-<pre>
 UMASS Dissenters 				      Senior Member/Organizer 		  	2022 - Present
+
 Computational Biology Research Group	Attendee					      2024
+
 Beacon Coding Class				Python Teacher’s Assistant			2022
+
 Disc-NY Beacon Ultimate Frisbee 		Team Captain 					2019 - 2022
-</pre>
-</div>
