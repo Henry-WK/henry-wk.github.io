@@ -46,11 +46,11 @@ satisfaction.
 
 # Programming Expertise 
 **Games and Visual Graphics Projects**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript  
 **Object Oriented Programming**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
 **Data Structures and Sorting Algorithms**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C  
 
 # Education
 University of Massachusetts - Amherst	3.87 GPA
