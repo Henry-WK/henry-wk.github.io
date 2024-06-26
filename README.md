@@ -4,20 +4,11 @@
 
 ## About me
 
-<!-- div style="text-align; center;">
-<!--       <iframe src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" height="200" width="200">
-      </iframe> -->
-<!--       <object data="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" width="1000" height="1000" type='application/pdf'></object> -->
-<!--       <embed src="https://github.com/user-attachments/files/15976095/Tech.Henry.Wheeler-Klainberg.Resume.Summer.2024.pdf" width="500" height="375" 
- type="application/pdf"> -->
-
- <div>
- <object data="https://dl.dropboxusercontent.com/u/6257603/pdfs/pdf01.pdf" type="application/pdf" width="300" height="200">
-   <embed src="https://dl.dropboxusercontent.com/u/6257603/pdfs/pdf01.pdf" type="application/pdf">
- </object>
-</div>
-
 ## Resume
+
+<div style="text-align: center;">
+      <img src="ttps://github.com/Henry-WK/henry-wk.github.io/assets/152219380/21105069-5d07-42e7-ae51-81f215910aba" height="1000" width ="500">
+</div>
 
 # Work Experience	
 Northeast Biogas Initiative	Data Analyst & Web Programmer            May 2024 - Present
