@@ -7,7 +7,7 @@ rank: 1
 
 ### **Arduino Arcade w/ Custom Circuitry (Javascript & C++)**  
 
-[Sensor Simulators Site](https://sites.google.com/umass.edu/sensorsimulators?usp=sharing)
+[Sensor Simulators Site](https://sites.google.com/umass.edu/sensorsimulators/gallery?usp=sharing)
 
 ---
 
