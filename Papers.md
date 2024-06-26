@@ -9,7 +9,7 @@ rank: 2
 
 ## Electronic Data Displays + Older Adults
   
-Category: Research
+Category: Research  
 Paper Type: Empirical
 
 **Abstract**— This paper aims to explore related works pertaining to a theoretical study on older adults and their experiences with at
