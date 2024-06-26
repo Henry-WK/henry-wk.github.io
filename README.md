@@ -22,12 +22,9 @@ with older adults on their issues with home displays. Currently writing a schola
 publication for a September visualization conference. 
 
 Skills: 
-      + Academic writing in latex
-      + Reviewing literature
-      + Research development.
-      - George Washington
-      * John Adams
-+ Thomas Jefferson
++ Academic writing in latex
++ Reviewing literature
++ Research development
 
 ---
 
