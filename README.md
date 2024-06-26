@@ -45,12 +45,12 @@ working with 10-15 people to keep business running smoothly, and ensure customer
 satisfaction.
 
 # Programming Expertise 
-**Games and Visual Graphics Projects**  			
-      Languages: 	Python, Processing, JavaScript
+**Games and Visual Graphics Projects**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript
 **Object Oriented Programming**  
-      Languages:	Python, Java, JavaScript, C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C
 **Data Structures and Sorting Algorithms**  
-      Languages:	Python, Java, JavaScript, C
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages:	Python, Java, JavaScript, C
 
 # Education
 University of Massachusetts - Amherst	3.87 GPA
