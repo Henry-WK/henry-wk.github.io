@@ -5,34 +5,49 @@ rank: 1
 ---
 ## Projects
 
-### Games
+# Games
 
-**Arduino + Processing Arcade w/ Custom Circuitry (Javascript + C++)**
+### **Arduino + Processing Arcade w/ Custom Circuitry (Javascript + C++)**  
 
 [Sensor Simulators Site](https://sites.google.com/umass.edu/sensorsimulators?usp=sharing)
 
 ---
 
-**Doodle Jump on Processing (Javascript)**
+### **Doodle Jump on Processing (Javascript)**  
 
 [Doodle Jump on P5.js](https://editor.p5js.org/hwheeler/full/dFB3w8vy3)
 
 ---
 
-**RPG Template with Battle and Area Movement (Python)**
+### **RPG Template with Battle and Area Movement (Python)**
+
+(Submission Pending)
+
+
+---
+
+# Javascript Graphics w/ Three.js
+
+### **RayTracer**
 
 (Submission Pending)
 
 ---
 
-### Javascript Graphics w/ Three.js
-
-**Subdivisions**
+### **Subdivisions**
 
 (Submission Pending)
 
-**RayTracer**
+---
+
+### Image Processing
 
 (Submission Pending)
 
-**
+---
+
+### Hierarchical Modeling of Circulatory System
+
+(Submission Pending)
+
+---
