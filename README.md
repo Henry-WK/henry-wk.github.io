@@ -25,6 +25,9 @@ Skills:
       + Academic writing in latex
       + Reviewing literature
       + Research development.
+      - George Washington
+      * John Adams
++ Thomas Jefferson
 
 ---
 
