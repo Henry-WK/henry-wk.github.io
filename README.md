@@ -7,7 +7,7 @@
 ## Resume
 
 <div style="text-align: center;">
-      <img src="ttps://github.com/Henry-WK/henry-wk.github.io/assets/152219380/21105069-5d07-42e7-ae51-81f215910aba" height="1000" width ="500">
+      <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/21105069-5d07-42e7-ae51-81f215910aba" height="800" width ="500">
 </div>
 
 # Work Experience	
