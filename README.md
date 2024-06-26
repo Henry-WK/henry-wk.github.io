@@ -53,6 +53,7 @@ satisfaction.
 
 ---
 
+
 # Programming Expertise 
 **Games and Visual Graphics Projects**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages: 	Python, Processing, JavaScript  
