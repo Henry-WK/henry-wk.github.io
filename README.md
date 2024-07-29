@@ -4,7 +4,9 @@
       <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/644743a4-1010-45ad-83ec-152d4a763922" height="800" width ="1000">
 </div !-->
 
-<img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/7f632b5e-4a1f-4f87-81b0-3378f4e2258d">
+<div style="text-align: center">
+      <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/7f632b5e-4a1f-4f87-81b0-3378f4e2258d">
+</div>
 
 # Work Experience	
 ### Northeast Biogas Initiative
