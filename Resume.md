@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume
-rank: 3
+rank: 1
 ---
 [Main Page](https://henry-wk.github.io//)
 
