@@ -28,13 +28,17 @@ rank: 2
 
 ### **RayTracer**
 
+<!--
 [RayTracer](https://henry-wk.github.io/RayTracer/)
+-->
 
 ---
 
 ### **Subdivisions**
 
-[Subdivisions](https://henry-wk.github.io/Subdivisions/)
+<!--
+[Subdivisions](https://henry-wk.github.io/Subdivisions/) 
+-->
 
 ---
 
