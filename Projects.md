@@ -19,7 +19,7 @@ rank: 2
 
 ### **RPG Template with Battle and Area Movement (Python)**
 
-[RayTracer](https://henry-wk.github.io/RayTracer/)
+(Submission Pending)
 
 
 ---
@@ -28,7 +28,7 @@ rank: 2
 
 ### **RayTracer**
 
-(Submission Pending)
+[RayTracer](https://henry-wk.github.io/RayTracer/)
 
 ---
 
