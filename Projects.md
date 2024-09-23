@@ -34,7 +34,7 @@ rank: 2
 
 ### **Subdivisions**
 
-(Submission Pending)
+[Subdivisions](https://henry-wk.github.io/Subdivisions/)
 
 ---
 
