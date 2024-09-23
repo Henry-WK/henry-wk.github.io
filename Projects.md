@@ -24,7 +24,7 @@ rank: 2
 
 ---
 
-# Javascript Graphics w/ Three.js
+# Computer Graphics w/ Three.js
 
 ### **RayTracer**
 
