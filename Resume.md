@@ -5,6 +5,18 @@ rank: 1
 ---
 [Main Page](https://henry-wk.github.io//)
 
+<!-- Template to add expierence:
+
+### Name of Instituiton
+
+**Name of Position &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Date started - date ended*
+
+Description
+
+**Skills:**
++ 
+
+-->
 # Work Experience	
 
 ### UMASS Sequence Analysis and Genomics Lab
@@ -12,6 +24,10 @@ rank: 1
 **Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber 2024 - Present**
 
 Using python pandas, matplot, numpy to analyze large genomic & phenotypic data on antibiotic resistance in bacteria relating to tuberculosis. Dataset to be used in machine learning models.
+
+**Skills:**
++ Python libraries (numpy, pandas, seaborn)
++ Phenotypic and Genotypic data intepretation
 
 ### Northeast Biogas Initiative
 
