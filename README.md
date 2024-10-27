@@ -12,4 +12,4 @@
 
 Current work:
 
-This semester I am working for the SAGE lab. Find me here: [https://sage.cs.umass.edu/author/henry-wheeler-klainberg/</a>]
+This semester I am working for the SAGE lab. Find me here: [https://sage.cs.umass.edu/author/henry-wheeler-klainberg/] (SAGE LAB Henry Wheeler-Klainberg)
