@@ -16,6 +16,8 @@ Description
 **Skills:**
 + 
 
+----
+
 -->
 # Work Experience	
 
@@ -28,6 +30,8 @@ Using python pandas, matplot, numpy to analyze large genomic & phenotypic data o
 **Skills:**
 + Python libraries (numpy, pandas, seaborn)
 + Phenotypic and Genotypic data intepretation
+
+----
 
 ### Northeast Biogas Initiative
 
