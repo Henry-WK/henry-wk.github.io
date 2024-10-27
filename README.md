@@ -9,3 +9,7 @@
 </div> <br>
 
 ## My name is Henry Wheeler-Klainberg, I am a student at UMASS amherst studying Computer Science, Math, and Biology. This is my website! Here I showcase my past projects, my full resume, and my publications.
+
+Current work:
+
+This semester I am working for the SAGE lab. Find me here: [https://sage.cs.umass.edu/author/henry-wheeler-klainberg/</a>]
