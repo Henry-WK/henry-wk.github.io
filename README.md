@@ -8,4 +8,4 @@
       <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/7f632b5e-4a1f-4f87-81b0-3378f4e2258d">
 </div> <br>
 
-My name is Henry Wheeler-Klainberg, I am a student at UMASS amherst studying Computer Science, Math, and Biology. This is my website! Here I showcase my past projects, my full resume, and my publications.
+### My name is Henry Wheeler-Klainberg, I am a student at UMASS amherst studying Computer Science, Math, and Biology. This is my website! Here I showcase my past projects, my full resume, and my publications.
