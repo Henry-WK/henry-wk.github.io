@@ -9,7 +9,8 @@ rank: 1
 
 ### UMASS Sequence Analysis and Genomics Lab
 
-**Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber2024 - Present**
+**Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber 2024 - Present**
+
 Using python pandas, matplot, numpy to analyze large genomic & phenotypic data on antibiotic resistance in bacteria relating to tuberculosis. Dataset to be used in machine learning models.
 
 ### Northeast Biogas Initiative
