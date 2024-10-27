@@ -20,7 +20,6 @@ Description
 
 -->
 # Work Experience	
-
 ### UMASS Sequence Analysis and Genomics Lab
 
 **Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber 2024 - Present**
