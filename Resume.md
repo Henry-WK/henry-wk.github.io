@@ -28,7 +28,7 @@ Description
 Using python pandas, matplot, numpy to analyze large genomic & phenotypic data on antibiotic resistance in bacteria relating to tuberculosis. Dataset to be used in machine learning models.
 
 **Skills:**
-+ Python libraries (numpy, pandas, seaborn)
++ Python data manipulation, analysis and representation libraries (numpy, pandas, seaborn)
 + Phenotypic and Genotypic data intepretation
 
 ----
