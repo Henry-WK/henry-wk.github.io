@@ -5,7 +5,7 @@
   participant ui as UI
   participant db as IndexedDB
 
-  Note over user,db: Adding a flashcard from viewing a set
+  Note over user,db: Adding a flashcard while viewing a set
   user->>app: After inputting english and translation, pressed "Add flashcard" 
   db->>app: get current set, get current index in set
   app->>db: create flashcard object given input, add to flashcard set object (change arrays within object)
