@@ -1,3 +1,4 @@
 ```mermaid
-  info
+  sequence diagram
+  actor user
 ```
