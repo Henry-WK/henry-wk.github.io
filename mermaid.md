@@ -6,7 +6,7 @@
   participant db as IndexedDB
 
   Note over user,db: Adding a flashcard from viewing a set
-  app->>user: flashcard added to begining of set, view stays the same unless this is the first flashcard
+  app->>user: flashcard added to begining of set, if this is first card in set than placeholder removed
   db->>app: get current set, get current index in set
   app->>db: create flashcard object given input, add to flashcard set object
   app->>ui: card appears first, if no card present before now button changes text
