@@ -1,4 +1,4 @@
 ```mermaid
-  sequence diagram
+  sequenceDiagram
   actor user
 ```
