@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Research
-rank: 3
+rank: 2
 ---
-# Researcg
+# Research
 
 ---
 ## Alternative Training Data from M. Tuberculosis for Antimicrobial Resistance Prediction Models
