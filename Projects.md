@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-rank: 2
+rank: 3
 ---
 # Games
 
