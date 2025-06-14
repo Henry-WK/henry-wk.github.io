@@ -10,7 +10,7 @@
 
 ## My name is Henry Wheeler-Klainberg, I am a student at UMASS amherst studying Computer Science, Math, and Biology. This is my website! Here I showcase my past projects, my full resume, and my publications.
 
-Current work:
+Current work: Researchers at Centro Nacional de Biotecnología (CNB-CSIC) working on a software that generates mirroring phylogenic trees for two input sequences
 
 This semester I am working for the SAGE lab. Find me here: [SAGE LAB Henry Wheeler-Klainberg](https://sage.cs.umass.edu/author/henry-wheeler-klainberg/)
 
