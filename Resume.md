@@ -29,6 +29,7 @@ Using python and bash with bioinformatics packages/libraries to reinvent researc
 **Skills:**
 + Bioinformatics analysis and automation through Python libraries (numpy, pandas, seaborn)
 + Ubuntu Bioinformatics libraries (ClustalW, Muscle)
++ Research/Software development
 
 ----
 
@@ -41,6 +42,7 @@ Using python pandas, matplot, numpy to analyze large genomic & phenotypic data o
 **Skills:**
 + Python data manipulation, analysis and representation libraries (numpy, pandas, seaborn)
 + Phenotypic and Genotypic data intepretation
++ Research project development and presentation
 
 ----
 
