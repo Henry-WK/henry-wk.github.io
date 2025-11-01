@@ -10,7 +10,7 @@ rank: 2
 ### Accepted to: 1st Workshop on Accessible Visualization at IEEE VIS '24
 ### For: Human Computer Interactioon Lab at UMASS Amherst CICS
 
-https://arxiv.org/abs/2410.03929
+[https://arxiv.org/abs/2410.03929](https://arxiv.org/abs/2410.03929)
 
 --- 
 
