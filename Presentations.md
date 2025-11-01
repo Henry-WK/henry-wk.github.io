@@ -3,7 +3,7 @@ layout: default
 title: Research Presentations
 rank: 3
 ---
-# Research
+# Research Presentations
 
 ---
 ## Alternative Training Data from M. Tuberculosis for Antimicrobial Resistance Prediction Models
