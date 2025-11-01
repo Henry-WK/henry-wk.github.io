@@ -12,5 +12,7 @@
 
 Current work: 
       Researcher at Sequence Analysis and Genomics lab at the University of Massachusetts Amherst: Writing a senior thesis on training an antimicrobial resistance predicting neural network  using mulispecies dataset. Also working at the Centro Nacional de Biotecnología (CNB-CSIC) at the Autonomous Univerisity of Madrid: Working on a software that generates interactive phylogenic trees for two input sequences and plots correlation.
-      I will continue my research for the year, primarly conducting my honors thesis work with the SAGE Lab. Find me here: [SAGE LAB Henry Wheeler-Klainberg](https://sage.cs.umass.edu/author/henry-wheeler-klainberg/)
+      
+      
+For my Senior year, I will continue my research for the year, primarly conducting my honors thesis work with the SAGE Lab. Find me here: [SAGE LAB Henry Wheeler-Klainberg](https://sage.cs.umass.edu/author/henry-wheeler-klainberg/)
 
