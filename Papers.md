@@ -9,7 +9,10 @@ rank: 2
 ### Part of: Computer Science Honors Thesis Research Proposal
 ### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
 
-## [Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset on Github]()
+## [Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset on Github](Literature_Pertaining_to_Mycobacterium_Tuberculosis_Drug_Resistance_Prediction_using_a_Multi_Species_Training_Dataset.pdf)
+
+[](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
+)
 
 ---
 ## Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home
