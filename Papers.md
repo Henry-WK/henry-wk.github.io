@@ -16,7 +16,7 @@ rank: 2
 ### Accepted to: 1st Workshop on Accessible Visualization at IEEE VIS '24
 ### For: Human Computer Interactioon Lab at UMASS Amherst CICS
 
-# [https://arxiv.org/abs/2410.03929](https://arxiv.org/abs/2410.03929)
+# [Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home on arxiv](https://arxiv.org/abs/2410.03929)
 
 --- 
 
