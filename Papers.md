@@ -5,7 +5,7 @@ rank: 2
 ---
 # Research Papers
 
-### Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset
+### Literature Pertaining _Mycobacterium tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset
 ### Part of: Computer Science Honors Thesis Research Proposal
 ### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
 
