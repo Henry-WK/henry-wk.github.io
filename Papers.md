@@ -9,7 +9,7 @@ rank: 2
 ### Part of: Computer Science Honors Thesis Research Proposal
 ### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
 
-## (Literature_Pertaining_to_Mycobacterium_Tuberculosis_Drug_Resistance_Prediction_using_a_Multi_Species_Training_Dataset on Google Drive)](https://drive.google.com/file/d/1PsFfzASHTLMkufP0U-uxMkKlYHZY_F96/view)
+## [Literature_Pertaining_to_Mycobacterium_Tuberculosis_Drug_Resistance_Prediction_using_a_Multi_Species_Training_Dataset on Google Drive](https://drive.google.com/file/d/1PsFfzASHTLMkufP0U-uxMkKlYHZY_F96/view)
 
 ---
 ## Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home
