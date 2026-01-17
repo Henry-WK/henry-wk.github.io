@@ -5,6 +5,11 @@ rank: 3
 ---
 # Research Presentations
 
+## Thesis Update: Enhancing Enhancing _Mycobacterium Tuberculosis_ AMR Prediction with a Multispecies Dataset
+<div>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvHUNe5irInngYBGvczjCGqvZ5DllA9oyS0RIrrzTNZ8iSmxwkc5btcBC22OZQyio93eHzDdayH6Y9/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 ---
 ## Antibiotic Mechanisms of Action used to treat _Mycobacterium Tuberculosis_
 
