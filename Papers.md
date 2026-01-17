@@ -9,14 +9,14 @@ rank: 2
 ### Part of: Computer Science Honors Thesis Research Proposal
 ### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
 
-# [Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset on Github]()
+## [Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset on Github]()
 
 ---
 ## Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home
 ### Accepted to: 1st Workshop on Accessible Visualization at IEEE VIS '24
 ### For: Human Computer Interactioon Lab at UMASS Amherst CICS
 
-# [Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home on arxiv](https://arxiv.org/abs/2410.03929)
+## [Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home on arxiv](https://arxiv.org/abs/2410.03929)
 
 --- 
 
