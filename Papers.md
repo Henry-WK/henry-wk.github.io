@@ -5,6 +5,12 @@ rank: 2
 ---
 # Research Papers
 
+### Literature Pertaining _Mycobacterium Tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset
+### Part of: Computer Science Honors Thesis Research Proposal
+### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
+
+[Paper]()
+
 ---
 ## Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home
 ### Accepted to: 1st Workshop on Accessible Visualization at IEEE VIS '24
