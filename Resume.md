@@ -20,29 +20,30 @@ Description
 
 -->
 # Work Experience	
+### UMASS Sequence Analysis and Genomics Lab
+
+**Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber 2024 - Present**
+
+Apart of my honors thesis, training a neural network on multispecies resistance data found through online databses in order to predict drug resistance. Working with  libraries like bipython, blast, and other bioinformatics to align and process genomic data, as well as sort through large databases with pandas and pyplot. Finally, using pytorch to train the model and analyze results.
+
+**Skills:**
++ Python data manipulation, analysis and representation libraries (numpy, pandas, seaborn)
++ Machine learning theory and implemention with PyTorch
++ Phenotypic and Genotypic data intepretation
++ Research project development and presentation to thesis commitee weekly
+
+----
+
 ### Centro Nacional de Biotecnología (CNB-CSIC)
 
 **Bioinformatics Software Designer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; May 2025 - Present**
 
-Using python and bash with bioinformatics packages/libraries to reinvent researcher tool. The tool generates mirroring phylogenic trees reperesenting lineage and connection of two input sequences. Intended as open source research tool to be released online.
+Using python and bash with bioinformatics packages/libraries to reinvent researcher tool. The tool generates mirroring phylogenic trees reperesenting lineage and connection of two input sequences. Intended as open source research tool pending online release. Sample results page found at: [MirrorTree Sample Results Page](https://github.com/Henry-WK/henry-wk.github.io/blob/009df25464246ee303cacb71ced776c3454bc0d1/MirrorTree_Sample_Results_Page.html)
 
 **Skills:**
 + Bioinformatics analysis and automation through Python libraries (numpy, pandas, seaborn)
 + Ubuntu Bioinformatics libraries (ClustalW, Muscle)
 + Research/Software development
-
-----
-
-### UMASS Sequence Analysis and Genomics Lab
-
-**Genomic Data Curator &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Septemeber 2024 - Present**
-
-Using python pandas, matplot, numpy to analyze large genomic & phenotypic data on antibiotic resistance in bacteria relating to tuberculosis. Dataset to be used in machine learning models.
-
-**Skills:**
-+ Python data manipulation, analysis and representation libraries (numpy, pandas, seaborn)
-+ Phenotypic and Genotypic data intepretation
-+ Research project development and presentation
 
 ----
 
