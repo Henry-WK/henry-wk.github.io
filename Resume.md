@@ -38,7 +38,7 @@ Apart of my honors thesis, training a neural network on multispecies resistance 
 
 **Bioinformatics Software Designer &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; May 2025 - Present**
 
-Using python and bash with bioinformatics packages/libraries to reinvent researcher tool. The tool generates mirroring phylogenic trees reperesenting lineage and connection of two input sequences. Intended as open source research tool pending online release. Sample results page found at: [MirrorTree Sample Results Page](https://github.com/Henry-WK/henry-wk.github.io/blob/009df25464246ee303cacb71ced776c3454bc0d1/MirrorTree_Sample_Results_Page.html)
+Using python and bash with bioinformatics packages/libraries to reinvent researcher tool. The tool generates mirroring phylogenic trees reperesenting lineage and connection of two input sequences. Intended as open source research tool pending online release. <!-- Sample results page found at: [MirrorTree Sample Results Page](https://github.com/Henry-WK/henry-wk.github.io/blob/009df25464246ee303cacb71ced776c3454bc0d1/MirrorTree_Sample_Results_Page.html) -->
 
 **Skills:**
 + Bioinformatics analysis and automation through Python libraries (numpy, pandas, seaborn)
