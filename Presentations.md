@@ -8,12 +8,12 @@ rank: 3
 ## Thesis Defense Presentation: Generalizing Mycobacterium tuberculosis Convolutional Neural Network Drug Resistance Prediction to Nontuberculous Mycobacteria  
 
 <div>
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDkR3Xws0PWoex59Y52ZOqUaLEJUlD0dqGc2eFdXpiflPmeN5uVLvw3ARwafdATDICtGeBOtAzmqx_/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDkR3Xws0PWoex59Y52ZOqUaLEJUlD0dqGc2eFdXpiflPmeN5uVLvw3ARwafdATDICtGeBOtAzmqx_/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 ## Thesis Update: Enhancing Enhancing _Mycobacterium tuberculosis_ AMR Prediction with a Multispecies Dataset
 <div>
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvHUNe5irInngYBGvczjCGqvZ5DllA9oyS0RIrrzTNZ8iSmxwkc5btcBC22OZQyio93eHzDdayH6Y9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvHUNe5irInngYBGvczjCGqvZ5DllA9oyS0RIrrzTNZ8iSmxwkc5btcBC22OZQyio93eHzDdayH6Y9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 ---
