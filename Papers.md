@@ -5,6 +5,10 @@ rank: 2
 ---
 # Research Papers
 
+### Generalizing Mycobacterium Tuberculosis Antimicrobial Resistance Prediction Neural Network Learning to related Mycobacterium species.
+### As: My Honors Research Manuscript for my UMASS senior graduation
+### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS and the UMASS Honors College
+
 ### Literature Pertaining _Mycobacterium tuberculosis_ Drug Resistance Prediction using a Multi Species Training Dataset
 ### Part of: Computer Science Honors Thesis Research Proposal
 ### For: Sequence Analysis and Genomics Lab at UMASS Amherst CICS
