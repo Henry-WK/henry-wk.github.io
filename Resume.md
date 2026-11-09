@@ -156,8 +156,9 @@ ___
 
 
 # Extracurricular Activities
-**UMASS Dissenters** 		&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp; Senior Member/Organizer  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022 - Present  
+
+**Academia Contacto Madrid** &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;	Certified B2 Spanish Speaker   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025
 
 ---
 
