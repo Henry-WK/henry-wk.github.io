@@ -8,11 +8,10 @@
       <img src="https://github.com/Henry-WK/henry-wk.github.io/assets/152219380/7f632b5e-4a1f-4f87-81b0-3378f4e2258d">
 </div> <br>
 
-## My name is Henry Wheeler-Klainberg, I am a student at UMASS amherst studying Computer Science, Math, and Biology. This is my website! Here I showcase my past projects, my full resume, and my publications.
+## My name is Henry Wheeler-Klainberg. I am a recent graduate from the University of Massachusetts Amherst. I studied Computer Science, and Biology, with a research specialization in computational biology relating to bacterial genomics. This is my website!
 
-Current work: 
-      Researcher at Sequence Analysis and Genomics lab at the University of Massachusetts Amherst: Writing a senior thesis on training an antimicrobial resistance predicting neural network  using mulispecies dataset. Also working at the Centro Nacional de Biotecnología (CNB-CSIC) at the Autonomous Univerisity of Madrid: Working on a software that generates interactive phylogenic trees for two input sequences and plots correlation.
+Past work: 
+      As a researcher at Sequence Analysis and Genomics lab at the University of Massachusetts Amherst: Wrote a senior thesis on training an antimicrobial resistance predicting neural network using mulispecies dataset. Also worked at the Centro Nacional de Biotecnología (CNB-CSIC) at the Autonomous Univerisity of Madrid: Worked on a software that generates interactive phylogenic trees for two input sequences and plots correlation. In my sophmore year, I worked with the Human-Computer Interaction Lab of UMASS: Co-authored a published paper on older adults perceptions of at home displays.
       
       
-For my Senior year, I will continue my research for the year, primarly conducting my honors thesis work with the SAGE Lab. Find me here: [SAGE LAB Henry Wheeler-Klainberg](https://sage.cs.umass.edu/author/henry-wheeler-klainberg/)
-
+Postgrad, I am currently looking to continue my research career. I want to channel my scientific background in my next position while slowly aiming towards a position within a larger struggle to fight global health issues of the modern day. 
