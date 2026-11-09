@@ -14,4 +14,4 @@ Past work:
       As a researcher at Sequence Analysis and Genomics lab at the University of Massachusetts Amherst: Wrote a senior thesis on training an antimicrobial resistance predicting neural network using mulispecies dataset. Also worked at the Centro Nacional de Biotecnología (CNB-CSIC) at the Autonomous Univerisity of Madrid: Worked on a software that generates interactive phylogenic trees for two input sequences and plots correlation. In my sophmore year, I worked with the Human-Computer Interaction Lab of UMASS: Co-authored a published paper on older adults perceptions of at home displays.
       
       
-Postgrad, I am currently looking to continue my research career. I want to channel my scientific background in my next position while slowly aiming towards a position within a larger struggle to fight global health issues of the modern day. 
+Postgrad, I am currently looking to continue my research career. I want to channel my scientific background in my next position while slowly aiming towards a position within a larger struggle to fight global health issues of the modern day.
